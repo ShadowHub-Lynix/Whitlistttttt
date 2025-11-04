@@ -62,8 +62,8 @@ allowedUsers = {
     ["sparta9842"]           = true,
     ["MENOR_RSA"]            = true,
     ["dvdfy4wfiyf"]          = true,
-    ["Luizmiguel0156"]       = true,
-    ["cantanguandi2"]        = true,
+    ["HBT_QiOzdb9pNL"]       = true,
+    ["Foortataq"]        = true,
     ------STAFF
     ["vendasbraint"]         = true,
             
